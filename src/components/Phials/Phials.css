@@ -1,0 +1,23 @@
+.btn1{
+    margin:20px 55px;
+    width:40px;
+    height:40px;
+    position: relative;
+    top:-70px;
+    border-radius:50px;
+    font-size:1.5em;
+    color:black;
+    background-color:rgb(120, 173, 238);
+    box-shadow:5px 5px 5px black;
+    outline:none;
+}
+.phials{
+    margin:20px;
+    border:3px solid rgb(80, 3, 148);
+    box-shadow:5px 5px 5px rgb(93, 173, 243);
+}
+.image1{
+    position: relative;
+    top:10px;
+
+}

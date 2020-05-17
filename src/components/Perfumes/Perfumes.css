@@ -1,0 +1,14 @@
+.scents{
+    display:flex;
+    flex-direction: column;
+    padding:30px;
+    background-color: rgb(157, 83, 241);
+    border:3px solid rgb(131, 2, 245);
+}
+.dbtitle{
+    background-color:rgb(131, 2, 245) ;
+    border:3px solid rgb(80, 3, 148);
+    border-radius:20px;
+    padding:20px;
+    Color:white;
+}
